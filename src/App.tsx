@@ -1,11 +1,11 @@
-import React from 'react';
+// import { Button } from "ui";
+// import style from "./app.module.scss";
+import {DateHeader} from "components"
 
-function App() {
+export const App = () => {
   return (
     <div>
-
+      <DateHeader />
     </div>
   );
 }
-
-export default App;

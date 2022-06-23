@@ -1,0 +1,10 @@
+@import "ui/utils/tokens";
+
+.paragraph {
+    color: $color-white;
+
+    font-size: $font-size-1;
+
+    width: fit-content;
+    margin: 0 auto;
+}
